@@ -741,18 +741,7 @@
       "bbbEnabled": false,
       "hasSquad": true
     }
-  ],
-  "status": "success",
-  "info": {
-    "hitsToday": 3,
-    "hitsUsed": 1,
-    "hitsLimit": 100,
-    "credits": 0,
-    "server": 12,
-    "offsetRows": 0,
-    "totalRows": 1738,
-    "queryTime": 847.5091,
-    "s": 0,
-    "cache": 0
-  }
+  ]
+ 
+
 
