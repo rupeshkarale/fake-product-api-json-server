@@ -1,52 +1,6 @@
 
   [
     {
-      "id": "d19c24fc-07b4-43dd-8020-902475983b8f",
-      "name": "Sri Lanka vs Tbc, Super Four, Match 6 (B1 v A2)",
-      "matchType": "t20",
-      "status": "Match not started",
-      "venue": "Dubai International Cricket Stadium, Dubai",
-      "date": "2022-09-09",
-      "dateTimeGMT": "2022-09-09T14:00:00",
-      "teams": ["Sri Lanka", "Tbc"],
-      "teamInfo": [
-        {
-          "name": "Sri Lanka",
-          "shortname": "SL",
-          "img": "https://g.cricapi.com/img/teams/86-637877070226216908.webp"
-        }
-      ],
-      "series_id": "de644e14-30f5-45f3-a773-0785380bdfd6",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false
-    },
-    {
-      "id": "e71caa57-ae3b-4ea4-b768-78c1bd784fdc",
-      "name": "Saint Lucia Kings vs Barbados Royals, 11th Match",
-      "status": "Match not started",
-      "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
-      "date": "2022-09-08",
-      "dateTimeGMT": "2022-09-08T23:00:00",
-      "teams": ["Saint Lucia Kings", "Barbados Royals"],
-      "teamInfo": [
-        {
-          "name": "Barbados Royals",
-          "shortname": "BR",
-          "img": "https://g.cricapi.com/img/teams/114-637959253434216362.webp"
-        },
-        {
-          "name": "Saint Lucia Kings",
-          "shortname": "SLK",
-          "img": "https://g.cricapi.com/img/teams/266-637937643184202597.webp"
-        }
-      ],
-      "series_id": "b5f82230-ead7-4905-b22d-6e68bc9f9104",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": true
-    },
-    {
       "id": "07db383b-d6cd-4b33-8129-15e9ea2873be",
       "name": "India vs Afghanistan, Super Four, Match 5 (A1 v B2)",
       "matchType": "t20",
