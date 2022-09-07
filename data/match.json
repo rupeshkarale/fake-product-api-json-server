@@ -18,7 +18,7 @@
         {
           "name": "India",
           "shortname": "IND",
-          "img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+          "img": "http://www.productoftheyear.in/wp-content/uploads/2018/08/india-winner-campaign.jpg"
         }
       ],
       "series_id": "de644e14-30f5-45f3-a773-0785380bdfd6",
@@ -64,7 +64,7 @@
         {
           "name": "India A",
           "shortname": "INA",
-          "img": "https://g.cricapi.com/img/teams/2206-637976248888288069.webp"
+          "img": "http://www.productoftheyear.in/wp-content/uploads/2018/08/india-winner-campaign.jpg"
         },
         {
           "name": "New Zealand A",
@@ -76,19 +76,6 @@
       "fantasyEnabled": false,
       "bbbEnabled": false,
       "hasSquad": true
-    },
-    {
-      "id": "0d1011f3-14bb-4411-9bb3-c2f23f10eb88",
-      "name": "North Zone vs East Zone, 2nd Quarter-Final",
-      "status": "Match not started",
-      "venue": "Cricket Association Puducherry Ground 2, Puducherry",
-      "date": "2022-09-08",
-      "dateTimeGMT": "2022-09-08T04:00:00",
-      "teams": ["North Zone", "East Zone"],
-      "series_id": "1c044e74-8467-4482-a71c-18c4f0525057",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false
     },
     {
       "id": "30970bfb-62a9-4383-817b-ac8b90b150d1",
@@ -179,27 +166,6 @@
       "hasSquad": true
     },
     {
-      "id": "232e872f-2ae4-46c3-a085-30d74619b454",
-      "name": "Tbc vs Afghanistan, Super Four, Match 4 (A2 v B2)",
-      "matchType": "t20",
-      "status": "Match not started",
-      "venue": "Dubai International Cricket Stadium, Dubai",
-      "date": "2022-09-07",
-      "dateTimeGMT": "2022-09-07T14:00:00",
-      "teams": ["Afghanistan", "Afghanistan"],
-      "teamInfo": [
-        {
-          "name": "Afghanistan",
-          "shortname": "AFG",
-          "img": "https://g.cricapi.com/img/teams/1-637877075587179422.webp"
-        }
-      ],
-      "series_id": "de644e14-30f5-45f3-a773-0785380bdfd6",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false
-    },
-    {
       "id": "ff416743-04db-432a-96de-0ede709788df",
       "name": "India vs Sri Lanka, Super Four, Match 3 (A1 v B1)",
       "matchType": "t20",
@@ -212,7 +178,7 @@
         {
           "name": "India",
           "shortname": "IND",
-          "img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+          "img": "http://www.productoftheyear.in/wp-content/uploads/2018/08/india-winner-campaign.jpg"
         },
         {
           "name": "Sri Lanka",
@@ -445,7 +411,7 @@
         {
           "name": "India",
           "shortname": "IND",
-          "img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+          "img": "http://www.productoftheyear.in/wp-content/uploads/2018/08/india-winner-campaign.jpg"
         },
         {
           "name": "Pakistan",
