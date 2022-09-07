@@ -78,19 +78,6 @@
       "hasSquad": true
     },
     {
-      "id": "30970bfb-62a9-4383-817b-ac8b90b150d1",
-      "name": "West Zone vs North East Zone, 1st Quarter-Final",
-      "status": "Match not started",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "date": "2022-09-08",
-      "dateTimeGMT": "2022-09-08T04:00:00",
-      "teams": ["West Zone", "North East Zone"],
-      "series_id": "1c044e74-8467-4482-a71c-18c4f0525057",
-      "fantasyEnabled": false,
-      "bbbEnabled": false,
-      "hasSquad": false
-    },
-    {
       "id": "3164bb4e-369f-4bbf-89c9-cd10dfe33d1b",
       "name": "Scotland Women vs Ireland Women, 3rd T20I",
       "matchType": "t20",
